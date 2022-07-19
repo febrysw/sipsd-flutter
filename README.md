@@ -1,5 +1,14 @@
 # sipsd
 
+UAS Project Pemrograman Mobile
+
+Developed By
+- Febry Satya Wardana (1120101845)
+- I Gusti D. Rahmatullah (1120101837)
+
+Our Lecturer
+Abdul Haris, M.Kom
+
 A new Flutter project.
 
 ## Getting Started
