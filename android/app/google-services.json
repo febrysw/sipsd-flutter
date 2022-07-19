@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684427965140",
+    "project_id": "sipsd-f82ad",
+    "storage_bucket": "sipsd-f82ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684427965140:android:e5a3e3a38959e5588c4141",
+        "android_client_info": {
+          "package_name": "com.example.sipsd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684427965140-hcgrvgb0dahk9hmr42jsndm22tlsc7a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTzKwJh9uzimRx70xFu1nRUvawK_bCS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684427965140-hcgrvgb0dahk9hmr42jsndm22tlsc7a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
